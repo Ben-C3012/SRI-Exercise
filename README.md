@@ -1,7 +1,7 @@
 
 # SRI Exercise  🛡️
 
-1. The website functions using Bootstrap (JS + CSS) - There is no SRI for the cdn 
+1. The website functions using Bootstrap (JS + CSS) - There is no SRI for the cdn.
 
 2. Wait for the demo of an attacker taking over the CDN and injecting malicious code. 
 
